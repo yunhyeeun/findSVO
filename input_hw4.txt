@@ -1,31 +1,31 @@
 Verb: activate
 Sentence: Cytokines and growth factors activate STAT3 through kinase-mediated tyrosine phosphorylation and dimerization.
-Triplet: Cytokines and growth factors, activate, STAT3
+Triplet: Cytokines and factors, activate, STAT3
 Cited: Niu J, Sun Y, Chen B, et al. Fatty acids and cancer-amplified ZDHHC19 promote STAT3 activation through S-palmitoylation. Nature. 2019
 ---
 Verb: activate
 Sentence: Fatty acids can directly activate STAT3 by enhancing its palmitoylation, in synergy with cytokine stimulation.
-Triplet: Fatty acids, activate, STAT3
+Triplet: acids, activate, STAT3
 Cited: Niu J, Sun Y, Chen B, et al. Fatty acids and cancer-amplified ZDHHC19 promote STAT3 activation through S-palmitoylation. Nature. 2019
 ---
 Verb: inhibit
 Sentence: Notably, blocking zygotic genome activation can inhibit TAD establishment in human embryos but not in mouse or Drosophila.
-Triplet: blocking zygotic genome activation, inhibit, TAD establishment
+Triplet: blocking zygotic genome activation, inhibit, establishment
 Cited: Chen X, Ke Y, Wu K, et al. Key role for CTCF in establishing chromatin structure in human embryos. Nature. 2019
 ---
 Verb: require
 Sentence: TAD organization is significantly reduced in CTCF knockdown embryos, suggesting that TAD establishment during ZGA in human embryos requires CTCF expression.
-Triplet: TAD establishment, require, CTCF expression
+Triplet: establishment, require, expression
 Cited: Chen X, Ke Y, Wu K, et al. Key role for CTCF in establishing chromatin structure in human embryos. Nature. 2019
 ---
 Verb: bind
 Sentence: The active site cleft of nsp12 binds the first turn of RNA and mediates RdRp activity with conserved residues.
-Triplet: the active site cleft, binds, turn
+Triplet: cleft, binds, turn
 Cited: Hillen HS, Kokic G, Farnung L, Dienemann C, Tegunov D, Cramer P. Structure of replicating SARS-CoV-2 polymerase [published online ahead of print, 2020 May 21]. Nature. 2020
 ---
 Verb: bind
 Sentence: Two copies of nsp8 bind to opposite sides of the cleft and position the second turn of RNA.
-Triplet: two copies, bind, sides
+Triplet: copies, bind, sides
 Cited: Hillen HS, Kokic G, Farnung L, Dienemann C, Tegunov D, Cramer P. Structure of replicating SARS-CoV-2 polymerase [published online ahead of print, 2020 May 21]. Nature. 2020
 ---
 Verb: inhibit
@@ -40,17 +40,17 @@ Cited: Li S, Tian Y, Wu K, et al. Modulating plant growth-metabolism coordinatio
 ---
 Verb: activate
 Sentence: This function activates the ATR-CHK1 checkpoint and allows the forks to restart replication.
-Triplet: function, activates, ATR-CHK1 checkpoint
+Triplet: function, activates, checkpoint
 Cited: Coquel F, Silva MJ, Técher H, et al. SAMHD1 acts at stalled replication forks to prevent interferon induction. Nature. 2018
 ---
 Verb: activate
 Sentence: In SAMHD1-depleted cells, single-stranded DNA fragments are released from stalled forks and accumulate in the cytosol, where they activate the cGAS-STING pathway to induce expression of pro-inflammatory type I interferons.
-Triplet: they, activate, cGAS-STING pathway
+Triplet: they, activate, pathway
 Cited: Coquel F, Silva MJ, Técher H, et al. SAMHD1 acts at stalled replication forks to prevent interferon induction. Nature. 2018
 ---
 Verb: activate
 Sentence: Plant nucleotide-binding leucine-rich repeat (NLR) immune receptors activate cell death and confer disease resistance by unknown mechanisms.
-Triplet: receptors, activate, cell death
+Triplet: receptors, activate, death
 Cited: Wan L, Essuman K, Anderson RG, et al. TIR domains of plant immune receptors are NAD+-cleaving enzymes that promote cell death. Science. 2019
 ---
 Verb: require
@@ -110,12 +110,12 @@ Cited: Kaljas Y, Liu C, Skaldin M, et al. Human adenosine deaminases ADA1 and AD
 ---
 Verb: prevent
 Sentence: Several preclinical studies demonstrate that neurotrophins prevent RGC loss.
-Triplet: neurotrophins, prevent, RGC loss
+Triplet: neurotrophins, prevent, loss
 Cited: Giannaccini M, Usai A, Chiellini F, et al. Neurotrophin-conjugated nanoparticles prevent retina damage induced by oxidative stress. Cell Mol Life Sci. 2018
 ---
 Verb: prevent
 Sentence: Histological data demonstrated that the conjugated proteins totally prevented RGC loss, in sharp contrast to the equivalent dose of free proteins, which had no effect.
-Triplet: proteins, prevented, RGC loss
+Triplet: proteins, prevented, loss
 Cited: Giannaccini M, Usai A, Chiellini F, et al. Neurotrophin-conjugated nanoparticles prevent retina damage induced by oxidative stress. Cell Mol Life Sci. 2018
 ---
 Verb: require
@@ -135,12 +135,12 @@ Cited: Lan ZJ, Lei Z, Yiannikouris A, et al. Non-peptidyl small molecule, adenos
 ---
 Verb: inhibit
 Sentence: Initial screening of numerous compounds in human HepG2 liver cells revealed that NPC43 significantly inhibited glucose production.
-Triplet: NPC43, inhibited, glucose production
+Triplet: NPC43, inhibited, production
 Cited: Lan ZJ, Lei Z, Yiannikouris A, et al. Non-peptidyl small molecule, adenosine, 5'-Se-methyl-5'-seleno-, 2',3'-diacetate, activates insulin receptor and attenuates hyperglycemia in type 2 diabetic Leprdb/db mice. Cell Mol Life Sci. 2020
 ---
 Verb: prevent
 Sentence: Therefore, through its endocrine function, the heart can maintain physiological conditions and prevent organ damage under pathological conditions.
-Triplet: heart, prevent, organ damage
+Triplet: heart, prevent, damage
 Cited: Chiba A, Watanabe-Takano H, Miyazaki T, Mochizuki N. Cardiomyokines from the heart. Cell Mol Life Sci. 2018
 ---
 Verb: bind
@@ -150,12 +150,12 @@ Cited: Chiba A, Watanabe-Takano H, Miyazaki T, Mochizuki N. Cardiomyokines from 
 ---
 Verb: bind
 Sentence: Previously, we established that ZIKV-EP binds to human placental chondroitin sulfate, suggesting that CS may be a potential host cell surface receptor in ZIKV pathogenesis. 
-Triplet: ZIKV-EP, binds, chondroitin sulfate
+Triplet: ZIKV-EP, binds, sulfate
 Cited: Kim SY, Koetzner CA, Payne AF, et al. Glycosaminoglycan Compositional Analysis of Relevant Tissues in Zika Virus Pathogenesis and in Vitro Evaluation of Heparin as an Antiviral against Zika Virus Infection. Biochemistry. 2019
 ---
 Verb: inhibit
 Sentence: All compounds effectively inhibited DENV replication.
-Triplet: compounds, inhibited, DENV replication
+Triplet: compounds, inhibited, replication
 Cited: Kim SY, Koetzner CA, Payne AF, et al. Glycosaminoglycan Compositional Analysis of Relevant Tissues in Zika Virus Pathogenesis and in Vitro Evaluation of Heparin as an Antiviral against Zika Virus Infection. Biochemistry. 2019
 ---
 Verb: prevent
@@ -175,7 +175,7 @@ Cited: Ruan Z, Katiyar S, Kannan N. Computational and Experimental Characterizat
 ---
 Verb: activate
 Sentence: Molecular modeling and molecular dynamics simulations of WT and mutant EGFR suggest a model in which M766T activates the kinase domain by disrupting conserved autoinhibitory interactions between M766 and hydrophobic residues in the activation segment.
-Triplet: M766T, activates, kinase domain
+Triplet: M766T, activates, domain
 Cited: Ruan Z, Katiyar S, Kannan N. Computational and Experimental Characterization of Patient Derived Mutations Reveal an Unusual Mode of Regulatory Spine Assembly and Drug Sensitivity in EGFR Kinase. Biochemistry. 2017
 ---
 Verb: require
@@ -205,7 +205,7 @@ Cited: Salminen A, Kauppinen A, Kaarniranta K. FGF21 activates AMPK signaling: i
 ---
 Verb: activate
 Sentence: We will examine the signaling mechanisms through which FGF21 can activate the AMPK pathway and then discuss the significance of the close connection between FGF21 and AMPK signaling in the control of metabolic disorders and the aging process.
-Triplet: FGF21, activate, AMPK pathway
+Triplet: FGF21, activate, pathway
 Cited: Salminen A, Kauppinen A, Kaarniranta K. FGF21 activates AMPK signaling: impact on metabolic regulation and the aging process. J Mol Med (Berl). 2017
 ---
 Verb: bind
@@ -225,7 +225,7 @@ Cited: Seitz AP, Schumacher F, Baker J, et al. Sphingosine-coating of plastic su
 ---
 Verb: prevent
 Sentence: Sphingosine coatings of endotracheal tubes prevent bacterial adherence and biofilms.
-Triplet: Sphingosine coatings, prevent, adherence and biofilms
+Triplet: coatings, prevent, adherence and biofilms
 Cited: Seitz AP, Schumacher F, Baker J, et al. Sphingosine-coating of plastic surfaces prevents ventilator-associated pneumonia. J Mol Med (Berl). 2019
 ---
 Verb: prevent
@@ -240,12 +240,12 @@ Cited: Peplowski MA, Dicay M, Baggio CH, et al. Interferon gamma decreases intes
 ---
 Verb: inhibit
 Sentence: Gefitinib can inhibit EGFR signaling and block the autophosphorylation of critical tyrosine residues on EGFR.
-Triplet: gefitinib, inhibit, EGFR signaling
+Triplet: gefitinib, inhibit, signaling
 Cited: Ye C, Pan B, Xu H, et al. Co-delivery of GOLPH3 siRNA and gefitinib by cationic lipid-PLGA nanoparticles improves EGFR-targeted therapy for glioma [published correction appears in J Mol Med (Berl). 2020
 ---
 Verb: inhibit
 Sentence: A2-N/Ge/siGOLPH3 can inhibit glioma growth.
-Triplet: A2-N/Ge/siGOLPH3, inhibit, glioma growth
+Triplet: A2-N/Ge/siGOLPH3, inhibit, growth
 Cited: Ye C, Pan B, Xu H, et al. Co-delivery of GOLPH3 siRNA and gefitinib by cationic lipid-PLGA nanoparticles improves EGFR-targeted therapy for glioma [published correction appears in J Mol Med (Berl). 2020
 ---
 Verb: activate
@@ -255,22 +255,22 @@ Cited: Badal D, Dayal D, Singh G, Sachdeva N. Role of DNA-LL37 complexes in the 
 ---
 Verb: activate
 Sentence: Our results suggest that DNA-LL37 complexes activate pDCs and monocytes towards a proinflammatory phenotype during pathogenesis of T1D.
-Triplet: DNA-LL37 complexes, activate, pDCs and monocytes
+Triplet: complexes, activate, pDCs and monocytes
 Cited: Badal D, Dayal D, Singh G, Sachdeva N. Role of DNA-LL37 complexes in the activation of plasmacytoid dendritic cells and monocytes in subjects with type 1 diabetes. Sci Rep. 2020
 ---
 Verb: prevent
 Sentence: NMDA-induced superoxide formation was prevented by the channel blockers, restored by concurrent Ca2+ influx through ionomycin or voltage-gated calcium channels, and not induced by the Ca2+ influx in the absence of NMDAR ligand binding.
-Triplet: superoxide formation, was prevented by, blockers
+Triplet: formation, was prevented by, blockers
 Cited: Minnella AM, Zhao JX, Jiang X, et al. Excitotoxic superoxide production and neuronal death require both ionotropic and non-ionotropic NMDA receptor signaling. Sci Rep. 2018
 ---
 Verb: require
 Sentence: Neuronal NOX2 activation requires phosphoinositide 3-kinase, and NMDA binding to NMDAR increased PI3K association with NMDA GluN2B subunits independent of Ca2+ influx.
-Triplet: NOX2 activation, requires, phosphoinositide 3-kinase
+Triplet: activation, requires, 3-kinase
 Cited: Minnella AM, Zhao JX, Jiang X, et al. Excitotoxic superoxide production and neuronal death require both ionotropic and non-ionotropic NMDA receptor signaling. Sci Rep. 2018
 ---
 Verb: bind
 Sentence: Overall, our results suggest that URAT1 inhibitors bind to a common site in the core of the transporter and sterically hinder the transit of uric acid through the substrate channel, albeit with vastly different potencies and with differential interactions with specific URAT1 amino acids.
-Triplet: URAT1 inhibitors, bind, site
+Triplet: inhibitors, bind, site
 Cited: Tan PK, Liu S, Gunic E, Miner JN. Discovery and characterization of verinurad, a potent and specific inhibitor of URAT1 for the treatment of hyperuricemia and gout. Sci Rep. 2017
 ---
 Verb: require
@@ -290,17 +290,17 @@ Cited: Matsumoto T, Shirakawa K, Yokoyama M, et al. Protein kinase A inhibits tu
 ---
 Verb: activate
 Sentence: In the present study, we sought to investigate whether uric acid, in the soluble form, could also activate the NLRP3 inflammasome and induce the production of IL-1β.
-Triplet: acid, activate, NLRP3 inflammasome
+Triplet: acid, activate, inflammasome
 Cited: Braga TT, Forni MF, Correa-Costa M, et al. Soluble Uric Acid Activates the NLRP3 Inflammasome. Sci Rep. 2017
 ---
 Verb: activate
 Sentence: These findings suggest sUA activates the NLRP3 inflammasome.
-Triplet: sUA, activates, NLRP3 inflammasome
+Triplet: sUA, activates, inflammasome
 Cited: Braga TT, Forni MF, Correa-Costa M, et al. Soluble Uric Acid Activates the NLRP3 Inflammasome. Sci Rep. 2017
 ---
 Verb: bind
 Sentence: The sgRNA-Cas9 complex binds to its target and creates a double-strand break (DSB) that can be repaired by non-homologous end joining (NHEJ) or by the homology-directed repair (HDR) pathway, modifying or permanently replacing the genomic target sequence.
-Triplet: sgRNA-Cas9 complex, binds, target
+Triplet: complex, binds, target
 Cited: Singh V, Braddick D, Dhar PK. Exploring the potential of genome editing CRISPR-Cas9 technology. Gene. 2017
 ---
 Verb: require
@@ -320,7 +320,7 @@ Cited: Shah R, Reyes-Gordillo K, Cheng Y, Varatharajalu R, Ibrahim J, Lakshman M
 ---
 Verb: require
 Sentence: Different causative organisms require unique diagnostic and treatment approaches.
-Triplet: organisms, require, diagnostic and treatment approaches
+Triplet: organisms, require, approaches
 Cited: Ben-Zvi L, Sebag D, Izhaki G, Katz E, Bernfeld B. Diagnosis and Management of Infectious Arthritis in Children. Curr Infect Dis Rep. 2019
 ---
 Verb: require
@@ -330,7 +330,7 @@ Cited: Ben-Zvi L, Sebag D, Izhaki G, Katz E, Bernfeld B. Diagnosis and Managemen
 ---
 Verb: inhibit
 Sentence: Transwell and Wound-healing assays revealed that FH535 notably inhibited cell migration.
-Triplet: FH535, inhibited, cell migration
+Triplet: FH535, inhibited, migration
 Cited: Tu X, Hong D, Jiang Y, et al. FH535 inhibits proliferation and migration of colorectal cancer cells by regulating CyclinA2 and Claudin1 gene expression. Gene. 2019
 ---
 Verb: inhibit
@@ -340,27 +340,27 @@ Cited: Tu X, Hong D, Jiang Y, et al. FH535 inhibits proliferation and migration 
 ---
 Verb: bind
 Sentence: Additionally, chromatin immunoprecipitation (ChIP) and luciferase reporter assays were performed to investigate whether SP1 could bind to the promoter region of PANDAR and activate its transcription.
-Triplet: SP1, bind, promotor region
+Triplet: SP1, bind, region
 Cited: Sheng L, Wu J, Gong X, Dong D, Sun X. SP1-induced upregulation of lncRNA PANDAR predicts adverse phenotypes in retinoblastoma and regulates cell growth and apoptosis in vitro and in vivo. Gene. 2018
 ---
 Verb: bind
 Sentence: In addition, SP1 could bind directly to the PANDAR promoter region and activate its transcription.
-Triplet: SP1, bind, PANDAR promotor region
+Triplet: SP1, bind, region
 Cited: Sheng L, Wu J, Gong X, Dong D, Sun X. SP1-induced upregulation of lncRNA PANDAR predicts adverse phenotypes in retinoblastoma and regulates cell growth and apoptosis in vitro and in vivo. Gene. 2018
 ---
 Verb: activate
 Sentence: PGC1α activates BCAA metabolism and is used for energy in the tricarboxylic acid (TCA) cycle.
-Triplet: PGC1α, activates, BCAA metabolism
+Triplet: PGC1α, activates, metabolism
 Cited: Kamei Y, Hatazawa Y, Uchitomi R, Yoshimura R, Miura S. Regulation of Skeletal Muscle Function by Amino Acids. Nutrients. 2020
 ---
 Verb: activate
 Sentence: In addition, several amino acid-related molecules reportedly activate skeletal muscle function.
-Triplet: molecules, activate, muscle function
+Triplet: molecules, activate, function
 Cited: Kamei Y, Hatazawa Y, Uchitomi R, Yoshimura R, Miura S. Regulation of Skeletal Muscle Function by Amino Acids. Nutrients. 2020
 ---
 Verb: require
 Sentence: Prophylactic prevention of infection requires dietary vitamin C intakes that provide at least adequate, if not saturating plasma levels (i.e., 100-200 mg/day), which optimize cell and tissue levels.
-Triplet: prevention, requires, vitamin C intakes
+Triplet: prevention, requires, intakes
 Cited: Carr AC, Maggini S. Vitamin C and Immune Function. Nutrients. 2017
 ---
 Verb: require
@@ -390,32 +390,32 @@ Cited: Hemilä H. Vitamin C and Infections. Nutrients. 2017
 ---
 Verb: inhibit
 Sentence: Studies have shown that lipid deposition in tissues such as muscle and liver inhibit insulin signaling via the toxic molecules DAG and ceramide.
-Triplet: lipid deposition, inhibit, insulin signaling
+Triplet: deposition, inhibit, signaling
 Cited: Wali JA, Jarzebska N, Raubenheimer D, Simpson SJ, Rodionov RN, O'Sullivan JF. Cardio-Metabolic Effects of High-Fat Diets and Their Underlying Mechanisms-A Narrative Review. Nutrients. 2020
 ---
 Verb: activate
 Sentence: DAGs activate protein kinase C that inhibit insulin-PI3K-Akt signaling by phosphorylating serine residues on insulin receptor substrate (IRS).
-Triplet: DAGs, activate, protein kinase C
+Triplet: DAGs, activate, kinase C
 Cited: Wali JA, Jarzebska N, Raubenheimer D, Simpson SJ, Rodionov RN, O'Sullivan JF. Cardio-Metabolic Effects of High-Fat Diets and Their Underlying Mechanisms-A Narrative Review. Nutrients. 2020
 ---
 Verb: bind
 Sentence: HS directly binds postsynaptic partners neuroligins and LRRTMs, revealing a dual binding mode involving intrinsic glycan and protein domains for canonical synapse-organizing complexes.
-Triplet: HS, binds, postsynaptic partners neuroligins and LRRTMs
+Triplet: HS, binds, neuroligins and LRRTMs
 Cited: Zhang P, Lu H, Peixoto RT, et al. Heparan Sulfate Organizes Neuronal Synapses through Neurexin Partnerships. Cell. 2018
 ---
 Verb: bind
 Sentence: Neurexin HS chains also bind novel ligands, potentially expanding the neurexin interactome to hundreds of HS-binding proteins.
-Triplet: neurexin HS chains, bind, ligands
+Triplet: chains, bind, ligands
 Cited: Zhang P, Lu H, Peixoto RT, et al. Heparan Sulfate Organizes Neuronal Synapses through Neurexin Partnerships. Cell. 2018
 ---
 Verb: require
 Sentence: The synchronous cleavage divisions of early embryogenesis require coordination of the cell-cycle oscillator, the dynamics of the cytoskeleton, and the cytoplasm.
-Triplet: cleavage divisions, require, coordination
+Triplet: divisions, require, coordination
 Cited: Deneke VE, Puliafito A, Krueger D, et al. Self-Organized Nuclear Positioning Synchronizes the Cell Cycle in Drosophila Embryos. Cell. 2019
 ---
 Verb: require
 Sentence: Here, we show that synchronization of the cell cycle in Drosophila embryos requires accurate nuclear positioning, which is regulated by the cell-cycle oscillator through cortical contractility and cytoplasmic flows.
-Triplet: synchornization, requires, nuclear positioning
+Triplet: synchornization, requires, positioning
 Cited: Deneke VE, Puliafito A, Krueger D, et al. Self-Organized Nuclear Positioning Synchronizes the Cell Cycle in Drosophila Embryos. Cell. 2019
 ---
 Verb: activate
@@ -425,7 +425,7 @@ Cited: Hilgendorf KI, Johnson CT, Mezger A, et al. Omega-3 Fatty Acids Activate 
 ---
 Verb: activate
 Sentence: Ciliary cAMP activates EPAC signaling, CTCF-dependent chromatin remodeling, and transcriptional activation of PPARγ and CEBPα to initiate adipogenesis.
-Triplet: cAMP, activates, EPAC signaling, chromatin remodeling, and activation
+Triplet: cAMP, activates, signaling, remodeling, and activation
 Cited: Hilgendorf KI, Johnson CT, Mezger A, et al. Omega-3 Fatty Acids Activate Ciliary FFAR4 to Control Adipogenesis. Cell. 2019
 ---
 Verb: inhibit
@@ -435,12 +435,12 @@ Cited: Klug LR, Heinrich MC. PDGFRA Antibody for Soft Tissue Sarcoma. Cell. 2017
 ---
 Verb: inhibit
 Sentence: Pre-clinically, this antibody inhibited PDGFRA-dependent tumor growth.
-Triplet: antibody, inhibited, tumor growth
+Triplet: antibody, inhibited, growth
 Cited: Klug LR, Heinrich MC. PDGFRA Antibody for Soft Tissue Sarcoma. Cell. 2017
 ---
 Verb: prevent
 Sentence: Karyopherin-β2 (also called Transportin-1) engages PY-NLSs to inhibit and reverse FUS, TAF15, EWSR1, hnRNPA1, and hnRNPA2 fibrillization, whereas Importin-α plus Karyopherin-β1 prevent and reverse TDP-43 fibrillization.
-Triplet: Importin-α plus Karyopherin-β1, prevent, TDP-43 fibrillization
+Triplet: Karyopherin-β1, prevent, fibrillization
 Cited: Guo L, Kim HJ, Wang H, et al. Nuclear-Import Receptors Reverse Aberrant Phase Transitions of RNA-Binding Proteins with Prion-like Domains. Cell. 2018
 ---
 Verb: prevent
@@ -450,12 +450,12 @@ Cited: Guo L, Kim HJ, Wang H, et al. Nuclear-Import Receptors Reverse Aberrant P
 ---
 Verb: prevent
 Sentence: The results showed that pretreatment with chrysin significantly prevented BCCAO/R-induced cognitive and hippocampal LTP impairments (p < 0.001).
-Triplet: pretreatement, prevented, LTP impairments
+Triplet: pretreatement, prevented, impairments
 Cited: Sarkaki A, Farbood Y, Mansouri SMT, et al. Chrysin prevents cognitive and hippocampal long-term potentiation deficits and inflammation in rat with cerebral hypoperfusion and reperfusion injury. Life Sci. 2019
 ---
 Verb: prevent
 Sentence: Our data confirm that chrysin could prevent brain inflammation and thereby prevents cognitive and LTP impairments due to cerebral ischemia.
-Triplet: chrysin, prevent, brain inflammation
+Triplet: chrysin, prevent, inflammation
 Cited: Sarkaki A, Farbood Y, Mansouri SMT, et al. Chrysin prevents cognitive and hippocampal long-term potentiation deficits and inflammation in rat with cerebral hypoperfusion and reperfusion injury. Life Sci. 2019
 ---
 Verb: bind
@@ -485,7 +485,7 @@ Cited: Kim SY, Weon H, Youn DH. Essential roles of mGluR1 and inhibitory synapti
 ---
 Verb: require
 Sentence: Interestingly, this LTP induction required inhibitory synaptic transmission mediated by GABAA and glycine receptors, and coincided with the slow development of LTD at GABAergic synapses.
-Triplet: LTP induction, required, transmission
+Triplet: induction, required, transmission
 Cited: Kim SY, Weon H, Youn DH. Essential roles of mGluR1 and inhibitory synaptic transmission in NMDA-independent long-term potentiation in the spinal trigeminal interpolaris. Life Sci. 2016
 ---
 Verb: inhibit
@@ -495,6 +495,6 @@ Cited: Yang X, Zheng YT, Rong W. Sevoflurane induces apoptosis and inhibits the 
 ---
 Verb: inhibit
 Sentence: Sevoflurane can significantly inhibit tumor growth in SW480 cells transplanted nude mice.
-Triplet: sevoflurane, inhibit, tumor growth
+Triplet: sevoflurane, inhibit, growth
 Cited: Yang X, Zheng YT, Rong W. Sevoflurane induces apoptosis and inhibits the growth and motility of colon cancer in vitro and in vivo via inactivating Ras/Raf/MEK/ERK signaling. Life Sci. 2019
 ---
